@@ -2,6 +2,8 @@
 
 ➡ Overview:
 
+![Xnip2021-03-11_17-25-46](https://user-images.githubusercontent.com/67806550/110863839-45540300-828f-11eb-97b4-eecee2a72dcd.jpg)
+
 Shopping Cart is an interactive web application allowing regular users to sign up, log in, add products to cart and purchase. An admin was manually added as
 an user to add products and sell. The whole project is built with Spring framework because it gives good support for dependency injection and inversion of
 control. Hibernate is used in this application in order to map an object-oriented domain model to the relational database. It provides caching mechanism for better
@@ -11,6 +13,8 @@ for future compatibility. In this application:
 • Front-end: jQuery, jsp, AngularJS, Bootstrap
 
 • Back-end: RESTful, Spring MVC, Spring Security, Spring Web Flow
+![Xnip2021-03-11_17-26-32](https://user-images.githubusercontent.com/67806550/110863862-4e44d480-828f-11eb-9f52-0b3207db9a73.jpg)
+![Xnip2021-03-11_17-28-13](https://user-images.githubusercontent.com/67806550/110863870-50a72e80-828f-11eb-805f-bd86194bd52c.jpg)
 
 
 ➡ Highlight of the back-end:
