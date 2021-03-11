@@ -17,7 +17,7 @@ for future compatibility. In this application:
 ![Xnip2021-03-11_17-28-13](https://user-images.githubusercontent.com/67806550/110863870-50a72e80-828f-11eb-805f-bd86194bd52c.jpg)
 
 
-➡ Highlight of the back-end:
+➡ Highlights of the back-end:
 
 • Spring MVC is a powerful yet lightweight container. It is not server dependant and does not require special deployment steps. Use of Dependency Injection along with AOP(Aspect Oriented Programming) makes object creation and dependency management easy.
 
