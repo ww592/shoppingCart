@@ -1,6 +1,7 @@
 # shoppingCart
 
 ➡ Overview:
+
 Shopping Cart is an interactive web application allowing regular users to sign up, log in, add products to cart and purchase. An admin was manually added as
 an user to add products and sell. The whole project is built with Spring framework because it gives good support for dependency injection and inversion of
 control. Hibernate is used in this application in order to map an object-oriented domain model to the relational database. It provides caching mechanism for better
@@ -13,6 +14,7 @@ for future compatibility. In this application:
 
 
 ➡ Highlight of the back-end:
+
 • Spring MVC is a powerful yet lightweight container. It is not server dependant and does not require special deployment steps. Use of Dependency Injection along with AOP(Aspect Oriented Programming) makes object creation and dependency management easy.
 
 • Spring Security provides a highly flexible OAuth2 implementation. It is possible to write OAuth client, OAuth resource server and also OAuth authorization server. It enables Spring to integrate and inherit the feature of OAuth2 security with almost complete configurability.
